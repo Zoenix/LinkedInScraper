@@ -67,10 +67,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <main class="main">
         <div class="container">
             <div class="content">
-                <form action="url" method="get">
-                    <input type="text" name="url">
-                    <input type="submit" value="Submit">
-                </form>
+                Get
             </div>
         </div>
     </main>
