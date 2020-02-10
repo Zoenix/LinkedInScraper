@@ -67,7 +67,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <main class="main">
         <div class="container">
             <div class="content">
-                Get
+                <?php echo $contentView ?>
             </div>
         </div>
     </main>
